@@ -1,1 +1,4 @@
 # ROSBAGtoARRAY
+ROSBAGのデータをMATLAB上で使用するために抽出するプログラム
+取得した点群を表示するplayerも追加してある
+ROSToolboxが必要
